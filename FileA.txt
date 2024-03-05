@@ -2,3 +2,4 @@ I am testing the file1
 File2
 File A 
 first change in a file.
+Making another change for testing.
