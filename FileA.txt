@@ -3,3 +3,4 @@ File2
 File A 
 first change in a file.
 Making another change for testing.
+this is git testing.
